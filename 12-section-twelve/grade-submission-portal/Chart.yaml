@@ -1,0 +1,4 @@
+apiVersion: v2
+name: grade-submission-portal
+description: A Helm Chart for deploying the Grade Submission Portal, a frontend service for managing student grade submissions for Kubernetes Environment
+version: 1.0.0
